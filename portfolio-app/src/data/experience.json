@@ -1,0 +1,10 @@
+[
+    {   "role" : "Engineer",
+        "organisation" : "L & T Technology and Services",
+        "startDate": "June, 2023",
+        "endDate": "Present",
+        "experiences": ["Developed Widgets for data entry and visualization", "Developed algorithms for data migration integration with PLM tool ENOVIA"],
+        "skills":["Java","J2EE","HTML","CSS","JavaScript","ReactJS"],
+        "imageSrc": "experience/ltts.png"
+    }
+]

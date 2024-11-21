@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Weather App",
+        "imageSrc": "projects/projectImg.png",
+        "description": "This project was created to enhance my proficiency in React by developing an application that fetches and displays real-time weather data for any searched city worldwide, offering an user-friendly experience.",
+        "skills": ["ReactJS", "HTML", "CSS","JavaScript"],
+        "demo": "https://weatherspp.netlify.app/",
+        "source": "https://github.com/sumanthgurramkonda/react-app/tree/main/weatherapp"
+    },
+    {
+        "title": "Spring Security",
+        "imageSrc": "projects/projectImg.png",
+        "description": "This project was designed to deepen my understanding of Spring Security by building secure REST APIs, leveraging Spring's robust authentication and authorization capabilities.",
+        "skills": ["Springboot", "Spring Security"],
+        "demo": "https://github.com/sumanthgurramkonda/spring-security",
+        "source": "https://github.com/sumanthgurramkonda/spring-security"
+    }
+]
